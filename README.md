@@ -1,4 +1,5 @@
-# Amazon Clone Project
+# [Amazon Clone Project](https://sakshamjain98.github.io/Amazon_Clone/)
+![image](https://github.com/Sakshamjain98/Amazon_Clone/assets/137368917/87916156-382e-4f1a-b6c9-d186dbee78d2)
 
 ## Description
 
